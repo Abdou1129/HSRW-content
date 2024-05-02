@@ -1,8 +1,8 @@
 # T&B Content
 
-**Summer Semester**: 4th semester modules.
+**Summer Semester**: 2nd, and 4th semester modules.
 
-**Winter Semester**: 3th and 7th semester modules.
+**Winter Semester**: 3th, 5th, and 7th semester modules.
 
 You can find all my personal exam preparation materials in this folder. Organized by winter & summer semester courses (from 3rd till 7th semester + applied math materials). Usually, the most important files in each course are the Cheat-sheet and solved previous exams, if there are any.
 
