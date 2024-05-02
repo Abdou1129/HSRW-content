@@ -1,4 +1,4 @@
-# Author: Abdelrahman Mostafa
+# System Theory & Control, summer 2022, Prof. Nissing
 
 ## Important pieces of advice:
 - Do not take a lot of materials with you to the open-book exam, as this will distract you.
@@ -7,4 +7,4 @@
 - Solve as many previous exams as you could.
 
 
-These notes where taken in *summer semester 2022 with Prof. Nissing* teaching it.
+### Author: Abdelrahman Mostafa

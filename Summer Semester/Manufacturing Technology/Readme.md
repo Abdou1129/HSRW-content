@@ -1,3 +1,5 @@
-# Author: Abdelrahman Mostafa
+# MT, summer 2021, Prof. Klein.
 
-These notes where taken in *summer semester 2021 with Prof. Klein* teaching it.
+It was Corona time. So, I'm not the best person to advice you about this course now.
+
+### Author: Abdelrahman Mostafa

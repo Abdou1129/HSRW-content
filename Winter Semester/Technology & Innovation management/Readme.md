@@ -1,6 +1,6 @@
-# Author: Abdelrahman Mostafa
+# Technology & Innovation Management, winter 2022/23, Prof. Untiedt
 
 ## Important:
 Study the previous exam questions, and you're good to go.
 
-These notes where taken in *winter semester 2022/23 with Prof. Untiedt*.
+### Author: Abdelrahman Mostafa

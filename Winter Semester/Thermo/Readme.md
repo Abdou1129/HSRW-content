@@ -1,3 +1,3 @@
-# Author: Abdelrahman Mostafa
+# Thermodynamics, winter 2021/22, Prof. Gebel
  
-These notes where taken in *winter semester 2021/22 with Prof. Gebel* teaching it.
+### Author: Abdelrahman Mostafa

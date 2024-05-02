@@ -1,4 +1,4 @@
-# Author: Abdelrahman Mostafa
+# Controls, winter 2022/23, Prof. Nissing
 
 ## Important pieces of advice:
 - Do not take a lot of materials with you to the open-book exam, as this will distract you.
@@ -7,4 +7,4 @@
 - Solve as many previous exams as you could.
 
 
-These notes where taken in *winter semester 2022/23 with Prof. Nissing* teaching it.
+### Author: Abdelrahman Mostafa
