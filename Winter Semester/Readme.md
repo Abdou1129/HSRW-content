@@ -1,4 +1,4 @@
-This is how each module is organized:
+**_This is how each module is organized:_**
 
 # Module Name, Which semester, With which Professor.
 
